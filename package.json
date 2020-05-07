@@ -65,7 +65,8 @@
      "node asf106.js",
      "node asf107.js",
      "node asf108.js",
-     "node asf109.js"
+     "node asf109.js",
+     "node 4-8.js"
       ]
   },
  "dependencies": {
