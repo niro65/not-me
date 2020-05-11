@@ -59,3 +59,4 @@ workerasf108: node asf108.js
 workerasf109: node asf109.js
 workerfresh1: node 5-9.js
 workerfresh2: node 10-14.js
+workerfresh3: node 15-19.js
