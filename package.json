@@ -72,7 +72,8 @@
      "node 20-24.js",
      "node 31-35.js",
      "node 36-40.js",
-     "node 41-45.js"
+     "node 41-45.js",
+     "node 46-50.js"
       ]
   },
  "dependencies": {
