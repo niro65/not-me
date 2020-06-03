@@ -73,7 +73,9 @@
      "node 31-35.js",
      "node 36-40.js",
      "node 41-45.js",
-     "node 46-50.js"
+     "node 46-50.js",
+     "node 51-55.js",
+     "node 56-61.js"
       ]
   },
  "dependencies": {
